@@ -1,0 +1,3 @@
+[submodule "slides/20140408-vim-for-php-developers"]
+	path = slides/20140408-vim-for-php-developers
+	url = https://github.com/BlackIkeEagle/vim-for-php-developers.git
